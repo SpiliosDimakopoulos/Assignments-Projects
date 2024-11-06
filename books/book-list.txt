@@ -30,3 +30,4 @@ The Richest Man of Babylon - George S. Clason
 The Art of War - Sun Tzu
 Oliver Twist - Charles Dickens
 As a Man Thinketh - James Allen
+Jonathan Livingston Seagull - Richard Bach
