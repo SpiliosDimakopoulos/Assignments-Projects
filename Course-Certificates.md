@@ -31,7 +31,7 @@
 | Title     | Link      |
 |----------------|----------------|
 | Salesforce Administrator  | https://shorturl.at/3rgPa  |
-| INTRODUCTION TO LARGE LANGUAGE MODELS  | https://shorturl.at/w2KHV  |
+| Introduction To Large Language Models  | https://shorturl.at/w2KHV  |
 | Business Intelligence Fundamentals  | https://shorturl.at/rYTR7  |
 
 
