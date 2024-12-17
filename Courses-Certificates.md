@@ -2,7 +2,7 @@
 ## Great Learning
 
 1. Introduction to Machine Learning US
-2. Blockchain Process
+2. Blockchain Process https://www.mygreatlearning.com/certificate/JEFEKFMM
 3. Entrepreneurial Management
 4. Front End Development - CSS
 5. Front End Development - HTML
