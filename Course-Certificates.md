@@ -35,6 +35,14 @@
 | Python (Basic)  | https://www.hackerrank.com/certificates/iframe/18a560fd84b5  |
 | CSS (Basic)  | https://www.hackerrank.com/certificates/iframe/2d0b3688e72f  |
 
+## Athens Chamber of tradesmen
+
+| Title     | Link      |
+|----------------|----------------|
+| «Ανάπτυξη Πωλήσεων Επιχειρήσεων Παροχής Υπηρεσιών»  | https://drive.google.com/file/d/1DFS0HA-3zt5J5swzr5IuFkylnWT1CucT/view?usp=sharing  |
+| «Ανάπτυξη Πωλήσεων Καταστημάτων Λιανικής»  | https://drive.google.com/file/d/1DFS0HA-3zt5J5swzr5IuFkylnWT1CucT/view?usp=sharing  |
+| «ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΔΙΟΙΚΗΣΗΣ ΑΝΘΡΩΠΙΝΟΥ ΔΥΝΑΜΙΚΟΥ»  | https://drive.google.com/file/d/1DFS0HA-3zt5J5swzr5IuFkylnWT1CucT/view?usp=sharing  |
+| «Η Τεχνική της Διαπραγμάτευσης»  | https://drive.google.com/file/d/1DFS0HA-3zt5J5swzr5IuFkylnWT1CucT/view?usp=sharing  |
 
 ## Great Learning
 
