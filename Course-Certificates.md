@@ -14,6 +14,14 @@
 | Python 101 for Data Science  | https://courses.cognitiveclass.ai/certificates/8e447ad1036b463bbb64bffeca624fdd  |
 | Big Data 101 | https://courses.cognitiveclass.ai/certificates/be61aebd4104436e91ee3866be727909  |
 
+## Simplilearn
+
+| Title     | Link      |
+|----------------|----------------|
+| Salesforce Administrator  | https://shorturl.at/3rgPa  |
+| INTRODUCTION TO LARGE LANGUAGE MODELS  | https://shorturl.at/w2KHV  |
+| Business Intelligence Fundamentals  | https://shorturl.at/rYTR7  |
+
 
 ## HackerRank
 
