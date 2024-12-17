@@ -10,9 +10,10 @@
 | Title     | Link      |
 |----------------|----------------|
 | SQL and Relational Databases 101 | https://courses.cognitiveclass.ai/certificates/2ad3449802ed4cc5811c734ddd7a6ff5  |
-| Big Data 101 | https://courses.cognitiveclass.ai/certificates/be61aebd4104436e91ee3866be727909  |
-| Python 101 for Data Science  | https://courses.cognitiveclass.ai/certificates/8e447ad1036b463bbb64bffeca624fdd  |
 | Mathematical Optimization for Business Problems  | https://courses.cognitiveclass.ai/certificates/c511b069f4c94ee7803d5cc78281f54d  |
+| Python 101 for Data Science  | https://courses.cognitiveclass.ai/certificates/8e447ad1036b463bbb64bffeca624fdd  |
+| Big Data 101 | https://courses.cognitiveclass.ai/certificates/be61aebd4104436e91ee3866be727909  |
+
 
 ## HackerRank
 
