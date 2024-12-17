@@ -1,3 +1,15 @@
+## Coursera - Wharton University
+
+| Title     | Link      |
+|----------------|----------------|
+| AI Fundamentals for Non-Data Scientists  | https://www.coursera.org/account/accomplishments/verify/6QAQE7B4SBKU  |
+
+## Coursera - Google
+| Title     | Link      |
+|----------------|----------------|
+| Foundations of Project Management  | https://www.coursera.org/account/accomplishments/verify/DNYNSDMN95MT  |
+| Foundations of User Experience (UX) Design  | https://www.coursera.org/account/accomplishments/verify/KE6XFDRZAP6Z  |
+
 ## Oregon State University
 
 | Title     | Link      |
