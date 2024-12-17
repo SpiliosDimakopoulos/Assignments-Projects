@@ -3,7 +3,7 @@
 | Title     | Link      |
 |----------------|----------------|
 | Understanding Project Management Risk for Your Business  | https://www.mygreatlearning.com/certificate/VRBVLIML  |
-| Crisis Management for Project Managers  | https://www.mygreatlearning.com/certificate/JEFEKFMM  |
+| Crisis Management for Project Managers  | https://drive.google.com/file/d/1hz1MUCrtbX-PBGtIx9JETQ2EcWKPAhYX/view?usp=sharing  |
 
 ## HackerRank
 
