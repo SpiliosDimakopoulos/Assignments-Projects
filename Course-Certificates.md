@@ -1,3 +1,22 @@
+## Oregon State University
+
+| Title     | Link      |
+|----------------|----------------|
+| Understanding Project Management Risk for Your Business  | https://www.mygreatlearning.com/certificate/VRBVLIML  |
+| Crisis Management for Project Managers  | https://www.mygreatlearning.com/certificate/JEFEKFMM  |
+
+## HackerRank
+
+| Title     | Link      |
+|----------------|----------------|
+| Problem Solving (Intermediate)  | https://www.hackerrank.com/certificates/iframe/1c1af07349a7  |
+| Problem Solving (Basic)  | https://www.hackerrank.com/certificates/iframe/f3094768cf2e  |
+| SQL (Intermediate)  | https://www.hackerrank.com/certificates/iframe/bbc9f02c4f68  |
+| SQL (Basic)  | https://www.hackerrank.com/certificates/iframe/fd2ff9a4584f  |
+| Java (Basic)  | https://www.hackerrank.com/certificates/iframe/38ec644db23c  |
+| Python (Basic)  | https://www.hackerrank.com/certificates/iframe/18a560fd84b5  |
+| CSS (Basic)  | https://www.hackerrank.com/certificates/iframe/2d0b3688e72f  |
+
 
 ## Great Learning
 
