@@ -9,3 +9,4 @@ This repository contains a collection of assignments and projects completed duri
 - **Organizational Behavior and Psychology**: Insights into behavioral theories and their impact on organizational performance.
 - **Analysis and Design of Information Systems**: Projects focused on designing and analyzing efficient information systems.
 - **CV**: My updated curriculum vitae highlighting my academic and professional accomplishments.
+- **Personal Papers**: Independent works exploring topics beyond university assignments
