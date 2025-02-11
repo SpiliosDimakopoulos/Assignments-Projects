@@ -56,12 +56,18 @@
 - Dynamic Programming
 - Game Theory
 
-## Combinatorial Optimization & Metaheuristics
+## Combinatorial Optimization & Decision Analysis
 - Permutation Problems
 - Assignment Problems
 - Selection Problems
 - Local Search
 - Local Search Metaheuristics
+- Linear and Integer Programming
+- Data Envelopment Analysis (DEA)
+- Heuristic and Metaheuristic Optimization Methods
+- Multi-Criteria Analysis
+- Decision Analysis
+- Simulation
 
 ## Algorithms
 
