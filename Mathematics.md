@@ -16,6 +16,13 @@
 - Matrix multiplication rules
 - Linear transformations and application rules
 
+## Abstract Algebra
+- Groups, Rings, and Fields  
+- Homomorphisms and Isomorphisms  
+- Permutation Groups  
+- Polynomial Rings  
+- Basic Number Theory Concepts 
+
 ## Probability & Combinatorics
 - Combinatorial Analysis
 - Set Theory
@@ -51,14 +58,15 @@
 - Neural Networks (MLPs, CNNs, RNNs)  
 - Backpropagation and Optimization Algorithms (SGD, Adam)  
 - Feature Engineering and Dimensionality Reduction (PCA, t-SNE)  
-- Basic Reinforcement Learning Concepts  
+- Basic Reinforcement Learning Concepts
 
-## Abstract Algebra
-- Groups, Rings, and Fields  
-- Homomorphisms and Isomorphisms  
-- Permutation Groups  
-- Polynomial Rings  
-- Basic Number Theory Concepts 
+## Data Science
+- Data Cleaning and Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Statistical Analysis and Hypothesis Testing  
+- Data Visualization (Matplotlib, Seaborn, Plotly)  
+- Time Series Analysis  
+- SQL and Data Manipulation (Pandas, NumPy)
 
 ## Operations Research & Optimization
 - Linear Programming
