@@ -1,4 +1,4 @@
-# My Mathematical Knowledge
+# My Mathematical and Quantitative Knowledge
 
 ## Calculus
 - Limits and Continuity, Derivatives, Integrals
