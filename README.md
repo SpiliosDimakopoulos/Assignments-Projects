@@ -1,12 +1,17 @@
-# University Assignments Repository
+# 📂 My Knowledge & Skills Repository  
 
-This repository contains a collection of assignments and projects completed during my university studies. The topics cover a diverse range of subjects related to my academic coursework.
+Welcome to my personal repository, where I document my academic background, technical skills, certifications, and research work.
 
-## Contents
+## 📜 Contents  
 
-- **Statistics and Probabilities**: Assignments exploring statistical analysis, probability theory, and practical applications.
-- **Human Resources Management**: Case studies and reports on HR strategies and workplace dynamics.
-- **Organizational Behavior and Psychology**: Insights into behavioral theories and their impact on organizational performance.
-- **Analysis and Design of Information Systems**: Projects focused on designing and analyzing efficient information systems.
-- **CV**: My updated curriculum vitae highlighting my academic and professional accomplishments.
-- **Personal Papers**: Independent works exploring topics beyond university assignments.
+### 📄 Curriculum Vitae (CV)  
+
+### 📊 Mathematical and Quantitative Knowledge  
+- Comprehensive documentation of my knowledge in mathematics.
+
+### 📑 Research Papers & University Assignments  
+- Research papers I have authored or contributed to.  
+- University assignments and projects in PDF format.  
+
+### 🎓 Certifications & Courses  
+- List of completed courses and certifications, with relevant credentials.
