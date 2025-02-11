@@ -16,7 +16,7 @@
 - Matrix multiplication rules
 - Linear transformations and application rules
 
-### Probability & Combinatorics
+## Probability & Combinatorics
 - Combinatorial Analysis
 - Set Theory
 - Probability Theory
@@ -28,7 +28,7 @@
 - Joint Distributions of Continuous Random Variables
 - Central Limit Theorem
 
-### Statistics
+## Statistics
 - Descriptive Statistics
 - Probability Distributions
 - Sampling Distributions
@@ -45,7 +45,7 @@
 - Model Selection (AIC, BIC, Cross-validation)
 - Bayesian Statistics
 
-### Operations Research & Optimization
+## Operations Research & Optimization
 - Linear Programming
 - Simplex Method (Primal Simplex, Dual Simplex, Sensitivity Analysis)
 - Non-Linear Programming
@@ -56,33 +56,46 @@
 - Dynamic Programming
 - Game Theory
 
-# Combinatorial Optimization & Metaheuristics
+## Combinatorial Optimization & Metaheuristics
 - Permutation Problems
 - Assignment Problems
 - Selection Problems
 - Local Search
 - Local Search Metaheuristics
 
-# Algorithms
+## Algorithms
 
--  Sorting
--  String Search
--  Stock Price Opening Problem
--  Maze Exploration
--  Recursion
--  Graph Exploration
--  Compression
--  Symmetric Cryptography
--  Public Key Cryptography
--  Process Prioritization
--  Shortest Paths
--  Routing, Arbitrage
--  Google, PageRank
--  Elections
--  Monte Carlo, Voting Power, Prime Numbers
--  Information, Entropy, Classification
--  Probabilistic Algorithms
--  Random Numbers, Sampling
--  Applications of Hash Tables
--  Bit Manipulation
--  Dynamic Programming
+### Sorting & Search Algorithms
+- Sorting Algorithms (Quick Sort, Merge Sort, Heap Sort, Bubble Sort)
+- String Search Algorithms (Knuth-Morris-Pratt, Boyer-Moore, Rabin-Karp)
+- Rolling Hash Algorithm
+- Stock Price Opening Problem
+
+### Graph & Pathfinding Algorithms
+- Maze Exploration
+- Graph Exploration (Breadth-First Search, Depth-First Search, DFS vs BFS)
+- Shortest Path Algorithms (Dijkstra’s, Bellman-Ford, A*)
+- Routing Algorithms (Network Flow, Routing Tables)
+- Arbitrage Detection (Bellman-Ford for Arbitrage, Currency Exchange)
+- Union Find (Disjoint Set Union, Path Compression, Union by Rank)
+
+### Cryptography & Security
+- Symmetric Cryptography (AES, DES, XOR-based Ciphers)
+- Public Key Cryptography (RSA, ECC, Diffie-Hellman)
+- Information Theory (Entropy, Compression, Error-Correcting Codes)
+
+### Algorithmic Paradigms
+- Dynamic Programming (Knapsack, Longest Common Subsequence, Matrix Chain Multiplication, etc.)
+- Backtracking (N-Queens, Sudoku, Subset Sum, Hamiltonian Path)
+- Divide and Conquer (Merge Sort, Quick Sort, Binary Search)
+- Probabilistic Algorithms (Monte Carlo Methods, Las Vegas Algorithms, Approximation)
+- Game Theory (Nash Equilibrium, Minimax Algorithm)
+  
+### Miscellaneous
+- Process Prioritization (Scheduling Algorithms, Round-Robin, Priority Queues)
+- Google PageRank Algorithm
+- Elections & Voting Power (Condorcet, Borda Count, Arrow’s Impossibility Theorem)
+- Prime Number Algorithms (Sieve of Eratosthenes, Miller-Rabin Primality Test)
+- Random Numbers, Sampling (Monte Carlo, Random Walks, Markov Chains)
+- Applications of Hash Tables (Hash Maps, Hash Sets, Collision Resolution)
+- Bit Manipulation (Bitwise Operations, Set, Clear, Toggle, Count Set Bits)
