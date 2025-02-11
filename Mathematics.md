@@ -90,6 +90,12 @@
 - Divide and Conquer (Merge Sort, Quick Sort, Binary Search)
 - Probabilistic Algorithms (Monte Carlo Methods, Las Vegas Algorithms, Approximation)
 - Game Theory (Nash Equilibrium, Minimax Algorithm)
+
+### Project Management Algorithms
+- Critical Path Method (CPM)
+- Program Evaluation and Review Technique (PERT)
+- Scheduling Algorithms (Gantt Charts, Round-Robin Scheduling)
+- Project Risk Management (Monte Carlo Simulation for Project Risk)
   
 ### Miscellaneous
 - Process Prioritization (Scheduling Algorithms, Round-Robin, Priority Queues)
