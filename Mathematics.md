@@ -45,6 +45,14 @@
 - Model Selection (AIC, BIC, Cross-validation)
 - Bayesian Statistics
 
+## Machine Learning & Deep Learning
+- Supervised and Unsupervised Learning  
+- Regression and Classification Models  
+- Neural Networks (MLPs, CNNs, RNNs)  
+- Backpropagation and Optimization Algorithms (SGD, Adam)  
+- Feature Engineering and Dimensionality Reduction (PCA, t-SNE)  
+- Basic Reinforcement Learning Concepts  
+
 ## Abstract Algebra
 - Groups, Rings, and Fields  
 - Homomorphisms and Isomorphisms  
