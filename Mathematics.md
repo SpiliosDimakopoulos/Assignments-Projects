@@ -45,6 +45,13 @@
 - Model Selection (AIC, BIC, Cross-validation)
 - Bayesian Statistics
 
+## Abstract Algebra
+- Groups, Rings, and Fields  
+- Homomorphisms and Isomorphisms  
+- Permutation Groups  
+- Polynomial Rings  
+- Basic Number Theory Concepts 
+
 ## Operations Research & Optimization
 - Linear Programming
 - Simplex Method (Primal Simplex, Dual Simplex, Sensitivity Analysis)
