@@ -7,7 +7,6 @@
 - Simple Linear Regression
 - Multiple Linear Regression
 - ANOVA
-+ IBM SPSS
 
 # Operations Research & Optimization
 - Linear Programming Problem
