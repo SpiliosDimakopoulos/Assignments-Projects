@@ -67,6 +67,7 @@
 - Data Visualization (Matplotlib, Seaborn, Plotly)  
 - Time Series Analysis  
 - SQL and Data Manipulation (Pandas, NumPy)
+- Database Management
 
 ## Operations Research & Optimization
 - Linear Programming
