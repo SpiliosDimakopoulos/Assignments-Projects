@@ -1,5 +1,3 @@
-# 📂 My Knowledge & Skills Repository  
-
 Welcome to my personal repository, where I document my academic background, technical skills, certifications, and research work.
 
 ### Curriculum Vitae (CV)  
