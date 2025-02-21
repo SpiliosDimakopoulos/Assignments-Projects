@@ -75,8 +75,10 @@
 | YouTube Marketing  | https://www.mygreatlearning.com/certificate/NPXWOEXO  |
 | SEO Strategies  | https://www.mygreatlearning.com/certificate/HMWCKVWG  |
 | Supply Chain Management  | https://www.mygreatlearning.com/certificate/VQHDSYUC  |
-| Operation Management  | https://www.mygreatlearning.com/certificate/AOJUXWTN  |
-| Social Media Management  | https://www.mygreatlearning.com/certificate/FWGLQVRX  |
-| Marketing Analytics  | https://www.mygreatlearning.com/certificate/RSUNDNUY  |
-| Advanced SQL  | https://www.mygreatlearning.com/certificate/YXZGILPR  |
+
+## Kaggle
+
+| Title     | Link      |
+|----------------|----------------|
+| Pandas  | https://www.kaggle.com/learn/certification/spiliosdimakopoulos/pandas  |
 
